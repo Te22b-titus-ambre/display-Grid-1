@@ -1,0 +1,14 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-rows: 20% auto;
+    gap: 10px;
+    background-color: #fcdee0;
+}
+.logo{
+    height: 100%;
+    width: auto;
+}
+h1{
+    text-align: center;
+}
